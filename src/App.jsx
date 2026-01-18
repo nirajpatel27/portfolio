@@ -102,7 +102,7 @@ function App() {
           <div className="hero-text">
             <h1 className="hero-title">
               <span className="greeting">Hello, I'm</span>
-              <span className="name">Niraj Ashokbhai Patel</span>
+              <span className="name">Niraj Patel</span>
             </h1>
             <p className="hero-subtitle">Gold Medallist | Python Developer | Aspiring ML Engineer</p>
             <p className="hero-description">
@@ -428,7 +428,7 @@ function App() {
                   <div className="contact-icon">💼</div>
                   <div>
                     <h4>LinkedIn</h4>
-                    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">linkedin.com</a>
+                    <a href="https://linkedin.com/niraj027" target="_blank" rel="noopener noreferrer">linkedin.com</a>
                   </div>
                 </div>
               </div>
@@ -458,7 +458,7 @@ function App() {
       <footer className="footer">
         <div className="container">
           <p>&copy; 2025 Niraj Ashokbhai Patel. All rights reserved.</p>
-          <p className="footer-note">Built with React & Vite</p>
+          {/* <p className="footer-note">Built with React & Vite</p> */}
         </div>
       </footer>
     </div>
